@@ -36,3 +36,5 @@ Prototype / Proof of Concept
 - Memory-based learning (track user progress)
 - Mic-based interaction (Dot2Dot integration)
 - Offline-first execution model
+
+
